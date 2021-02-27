@@ -24,7 +24,7 @@ Et pourtant même après plusieurs années d'expérience, j'ai toujours eu du ma
 
 Ensuite, une autre déconvenue est cette fois venue des outils de partage. Mu par un désir de partager des projets, des documents, d'échanger sur des lectures et des points de vue, ou encore de confronter les idées pour les faire évoluer et co-construire des choses j’arrivais toutefois à la même conclusions qu’avant, aucun outil ne convenait. Un blog ? Non, trop formel. À chaque publication le lecteur s'attend à trouver un texte abouti et intelligible, pas un brouillon, un discours mal structuré, sans style et inachevé qui pourrait évoluer au fil d'éditions successives. Restaient les réseaux sociaux, mais là encore [c'était la déception](l_intolerance_des_reseaux_sociaux.md L'intolérance des réseaux sociaux).
 
-Jusqu'à ce qu'au moment où, par le plus grand des hasards en construisant ma [base de connaissance](construire_sa_base_de_connaissances.md Construire sa base de connaissances), je découvre le concept de [jardin numérique](cultiver_ses_idees_avec_un_jardin_numerique.md Cultiver ses idées avec un jardin numérique) ! Enfin un "truc" qui semblait prometteur. Ok alors allons-y. Après tout, pourquoi ne pas essayer.
+Jusqu'à ce qu'au moment où, par le plus grand des hasards en construisant ma [base de connaissance](construire_une_base_de_connaissances.md Construire sa base de connaissances), je découvre le concept de [jardin numérique](cultiver_ses_idees_avec_un_jardin_numerique.md Cultiver ses idées avec un jardin numérique) ! Enfin un "truc" qui semblait prometteur. Ok alors allons-y. Après tout, pourquoi ne pas essayer.
 
 [TODO: IMAGE BIENVENUE]
 
