@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"visualstudioexptteam.vscodeintellicode",
+		"ionutvmi.path-autocomplete",
+		"christian-kohler.npm-intellisense",
+		"zignd.html-css-class-completion",
+		"ecmel.vscode-html-css",
+		"dbaeumer.vscode-eslint",
+		"msjsdiag.debugger-for-chrome"
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"root": true,
+	"env": {
+		"browser": true,
+		"es2021": true
+	},
+	"extends": [
+		"plugin:react/recommended",
+		"eslint:recommended",
+		"airbnb",
+		"airbnb/hooks"
+	],
+	"parserOptions": {
+		"ecmaFeatures": {
+			"jsx": true
+		},
+		"ecmaVersion": 12,
+		"sourceType": "module"
+	},
+	"plugins": [
+		"react",
+		"jsx-a11y",
+		"import"
+	],
+	"rules": {
+		"no-use-before-define": "off",
+		"indent": [
+			"error",
+			"tab"
+		],
+		"react/jsx-indent": [
+			"error",
+			"tab"
+		],
+		"react/jsx-indent-props": [
+			"error",
+			"tab"
+		],
+		"no-tabs": [
+			"error",
+			{
+				"allowIndentationTabs": true
+			}
+		],
+		"quotes": [
+			"error",
+			"double"
+		],
+		"react/no-unescaped-entities": "off"
+	},
+	"settings": {
+		"import/resolver": {
+			"alias": {
+				"map": [
+					[
+						"assets",
+						"./assets"
+					],
+					[
+						"content",
+						"./content"
+					],
+					[
+						"src",
+						"./src"
+					]
+				],
+				"extensions": [
+					".js",
+					".jsx"
+				]
+			}
+		}
+	}
+}
